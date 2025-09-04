@@ -62,7 +62,7 @@ int main()
 
     anina_sort(arr, n);
 
-    printf("Sorted array:   ");
+    printf("\nSorted array: ");
     for (int i = 0; i < n; i++)
         printf("%d ", arr[i]);
     printf("\n");
